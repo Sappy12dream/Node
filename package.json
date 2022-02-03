@@ -1,0 +1,27 @@
+{
+  "name": "taskapi",
+  "version": "1.0.0",
+  "description": "Api for Task manager.",
+  "main": "App.js",
+  "scripts": {
+    "start": "nodemon App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sappy12dream/Node.git"
+  },
+  "author": "sappy12dream",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sappy12dream/Node/issues"
+  },
+  "homepage": "https://github.com/Sappy12dream/Node#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
